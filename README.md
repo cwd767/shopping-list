@@ -13,4 +13,6 @@ Grocery List
 - Queso
 - Tortilla chips
 
-
+- Cantaloupe
+- Blueberries
+- Watermelon
